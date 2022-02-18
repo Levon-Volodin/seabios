@@ -9,10 +9,10 @@
 //#define BUILD_CPUNAME8 "QEMUCPU "
 //#define BUILD_APPNAME6 "QEMU  "
 //#define BUILD_APPNAME4 "QEMU"
-#define BUILD_APPNAME  "DELL"
-#define BUILD_CPUNAME8 "DELLCPU"
-#define BUILD_APPNAME6 "DELL "
-#define BUILD_APPNAME4 "DELLS"
+#define BUILD_APPNAME  "UNKNOWN"
+#define BUILD_CPUNAME8 "UNKNOWN_CPU"
+#define BUILD_APPNAME6 "UNKNOWN"
+#define BUILD_APPNAME4 "UNKNOWNS"
 
 // Maximum number of map entries in the e820 map
 #define BUILD_MAX_E820 32
